@@ -1,0 +1,391 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th09_150a",
+  "resource": "spells",
+  "entries": {
+    "spell-0": {
+      "original_lines": [
+        "霊符「陰陽印」"
+      ],
+      "translated_lines": [
+        "灵符「阴阳印」"
+      ]
+    },
+    "spell-1": {
+      "original_lines": [
+        "霊符「夢想封印」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印」"
+      ]
+    },
+    "spell-2": {
+      "original_lines": [
+        "霊符「博麗幻影」"
+      ],
+      "translated_lines": [
+        "灵符「博丽幻影」"
+      ]
+    },
+    "spell-10": {
+      "original_lines": [
+        "魔符「スターダスト」"
+      ],
+      "translated_lines": [
+        "魔符「Stardust」"
+      ]
+    },
+    "spell-11": {
+      "original_lines": [
+        "魔符「スターダストレヴァリエ」"
+      ],
+      "translated_lines": [
+        "魔符「Stardust Reverie」"
+      ]
+    },
+    "spell-12": {
+      "original_lines": [
+        "魔符「イリュージョンスター」"
+      ],
+      "translated_lines": [
+        "魔符「Illusion Star」"
+      ]
+    },
+    "spell-20": {
+      "original_lines": [
+        "時符「プライベートヴィジョン」"
+      ],
+      "translated_lines": [
+        "时符「Private Vision」"
+      ]
+    },
+    "spell-21": {
+      "original_lines": [
+        "時符「プライベートヴィジョン」"
+      ],
+      "translated_lines": [
+        "时符「Private Vision」"
+      ]
+    },
+    "spell-22": {
+      "original_lines": [
+        "時符「ミステリアスジャック」"
+      ],
+      "translated_lines": [
+        "时符「Mysterious Jack」"
+      ]
+    },
+    "spell-30": {
+      "original_lines": [
+        "迷符「纏縛剣」"
+      ],
+      "translated_lines": [
+        "迷符「缠缚剑」"
+      ]
+    },
+    "spell-31": {
+      "original_lines": [
+        "迷符「纏縛剣」"
+      ],
+      "translated_lines": [
+        "迷符「缠缚剑」"
+      ]
+    },
+    "spell-32": {
+      "original_lines": [
+        "迷符「半身大悟」"
+      ],
+      "translated_lines": [
+        "迷符「半身大悟」"
+      ]
+    },
+    "spell-40": {
+      "original_lines": [
+        "波符「月面波紋(ルナウェーブ)」"
+      ],
+      "translated_lines": [
+        "波符「月面波纹(Luna Wave)」"
+      ]
+    },
+    "spell-41": {
+      "original_lines": [
+        "波符「月面波紋(ルナウェーブ)」"
+      ],
+      "translated_lines": [
+        "波符「月面波纹(Luna Wave)」"
+      ]
+    },
+    "spell-42": {
+      "original_lines": [
+        "散符「栄華之夢(ルナメガロポリス)」"
+      ],
+      "translated_lines": [
+        "散符「荣华之梦(Luna Megalopolis)」"
+      ]
+    },
+    "spell-50": {
+      "original_lines": [
+        "凍符「パーフェクトフリーズ」"
+      ],
+      "translated_lines": [
+        "冻符「Perfect Freeze」"
+      ]
+    },
+    "spell-51": {
+      "original_lines": [
+        "凍符「パーフェクトフリーズ」"
+      ],
+      "translated_lines": [
+        "冻符「Perfect Freeze」"
+      ]
+    },
+    "spell-52": {
+      "original_lines": [
+        "凍符「コールドディヴィニティー」"
+      ],
+      "translated_lines": [
+        "冻符「Cold Divinity」"
+      ]
+    },
+    "spell-60": {
+      "original_lines": [
+        "騒符「ソウルノイズフロー」"
+      ],
+      "translated_lines": [
+        "骚符「Soul Noise Flow」"
+      ]
+    },
+    "spell-61": {
+      "original_lines": [
+        "騒符「ソウルノイズフロー」"
+      ],
+      "translated_lines": [
+        "骚符「Soul Noise Flow」"
+      ]
+    },
+    "spell-62": {
+      "original_lines": [
+        "騒符「リリカ・ソロライブ」"
+      ],
+      "translated_lines": [
+        "骚符「Lyrica Solo Live」"
+      ]
+    },
+    "spell-70": {
+      "original_lines": [
+        "鳥符「ヒューマンケージ」"
+      ],
+      "translated_lines": [
+        "鸟符「Human Cage」"
+      ]
+    },
+    "spell-71": {
+      "original_lines": [
+        "鳥符「ヒューマンケージダブル」"
+      ],
+      "translated_lines": [
+        "鸟符「Human Cage Double」"
+      ]
+    },
+    "spell-72": {
+      "original_lines": [
+        "鳥符「ミステリアスソング」"
+      ],
+      "translated_lines": [
+        "鸟符「Mysterious Song」"
+      ]
+    },
+    "spell-80": {
+      "original_lines": [
+        "兎符「開運大紋」"
+      ],
+      "translated_lines": [
+        "兔符「开运大纹」"
+      ]
+    },
+    "spell-81": {
+      "original_lines": [
+        "兎符「開運大紋」"
+      ],
+      "translated_lines": [
+        "兔符「开运大纹」"
+      ]
+    },
+    "spell-82": {
+      "original_lines": [
+        "兎符「因幡の素兎」"
+      ],
+      "translated_lines": [
+        "兔符「因幡的白兔」"
+      ]
+    },
+    "spell-90": {
+      "original_lines": [
+        "花符「幻想郷の開花」"
+      ],
+      "translated_lines": [
+        "花符「幻想乡的开花」"
+      ]
+    },
+    "spell-91": {
+      "original_lines": [
+        "花符「幻想郷の開花」"
+      ],
+      "translated_lines": [
+        "花符「幻想乡的开花」"
+      ]
+    },
+    "spell-92": {
+      "original_lines": [
+        "幻想「花鳥風月、嘯風弄月」"
+      ],
+      "translated_lines": [
+        "幻想「花鸟风月，啸风弄月」"
+      ]
+    },
+    "spell-100": {
+      "original_lines": [
+        "風符「風神一扇」"
+      ],
+      "translated_lines": [
+        "风符「风神一扇」"
+      ]
+    },
+    "spell-101": {
+      "original_lines": [
+        "風符「風神一扇」"
+      ],
+      "translated_lines": [
+        "风符「风神一扇」"
+      ]
+    },
+    "spell-102": {
+      "original_lines": [
+        "疾風「風神少女」"
+      ],
+      "translated_lines": [
+        "疾风「风神少女」"
+      ]
+    },
+    "spell-110": {
+      "original_lines": [
+        "毒符「神経の毒」"
+      ],
+      "translated_lines": [
+        "毒符「神经之毒」"
+      ]
+    },
+    "spell-111": {
+      "original_lines": [
+        "毒符「神経の毒」"
+      ],
+      "translated_lines": [
+        "毒符「神经之毒」"
+      ]
+    },
+    "spell-112": {
+      "original_lines": [
+        "毒符「憂鬱の毒」"
+      ],
+      "translated_lines": [
+        "毒符「忧郁之毒」"
+      ]
+    },
+    "spell-120": {
+      "original_lines": [
+        "投銭「宵越しの銭」"
+      ],
+      "translated_lines": [
+        "投钱「隔夜钱」"
+      ]
+    },
+    "spell-121": {
+      "original_lines": [
+        "投銭「宵越しの銭」"
+      ],
+      "translated_lines": [
+        "投钱「隔夜钱」"
+      ]
+    },
+    "spell-122": {
+      "original_lines": [
+        "死神「ヒガンルトゥール」"
+      ],
+      "translated_lines": [
+        "死神「Higan Retour」"
+      ]
+    },
+    "spell-130": {
+      "original_lines": [
+        "罪符「彷徨える大罪」"
+      ],
+      "translated_lines": [
+        "罪符「彷徨的大罪」"
+      ]
+    },
+    "spell-131": {
+      "original_lines": [
+        "罪符「彷徨える大罪」"
+      ],
+      "translated_lines": [
+        "罪符「彷徨的大罪」"
+      ]
+    },
+    "spell-132": {
+      "original_lines": [
+        "審判「ラストジャッジメント」"
+      ],
+      "translated_lines": [
+        "审判「Last Judgement」"
+      ]
+    },
+    "spell-140": {
+      "original_lines": [
+        "騒符「ソウルゴーハッピー」"
+      ],
+      "translated_lines": [
+        "骚符「Soul-Go-Happy」"
+      ]
+    },
+    "spell-141": {
+      "original_lines": [
+        "騒符「ソウルゴーハッピー」"
+      ],
+      "translated_lines": [
+        "骚符「Soul-Go-Happy」"
+      ]
+    },
+    "spell-142": {
+      "original_lines": [
+        "騒符「メルラン・ハッピーライブ」"
+      ],
+      "translated_lines": [
+        "骚符「Merlin Happy Live」"
+      ]
+    },
+    "spell-150": {
+      "original_lines": [
+        "騒符「ノイズメランコリー」"
+      ],
+      "translated_lines": [
+        "骚符「Noise Melancholy」"
+      ]
+    },
+    "spell-151": {
+      "original_lines": [
+        "騒符「ノイズメランコリー」"
+      ],
+      "translated_lines": [
+        "骚符「Noise Melancholy」"
+      ]
+    },
+    "spell-152": {
+      "original_lines": [
+        "騒符「ルナサ・ソロライブ」"
+      ],
+      "translated_lines": [
+        "骚符「Lunasa Solo Live」"
+      ]
+    }
+  }
+}

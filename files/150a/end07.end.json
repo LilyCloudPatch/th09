@@ -1,0 +1,383 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th09_150a",
+  "resource": "end07.end",
+  "entries": {
+    "8": {
+      "original_lines": [
+        "　幻想郷と外の世界の境にある博麗神社。"
+      ],
+      "translated_lines": [
+        "　位于幻想乡和外部世界境界间的博丽神社。"
+      ]
+    },
+    "10": {
+      "original_lines": [
+        "　今現在、幻想郷中の花は咲きたい放題咲いている。"
+      ],
+      "translated_lines": [
+        "　这个时节，幻想乡的花正自由开放着。"
+      ]
+    },
+    "12": {
+      "original_lines": [
+        "　勿論、神社の桜も例外ではない。"
+      ],
+      "translated_lines": [
+        "　神社里的樱花当然也不例外。"
+      ]
+    },
+    "14": {
+      "original_lines": [
+        "　これだけ桜が咲いた神社で行われることと言えば……"
+      ],
+      "translated_lines": [
+        "　说到去这样一处樱花满开的神社的话……"
+      ]
+    },
+    "18": {
+      "original_lines": [
+        "ミスティア「あー、さーくらー、さくらーちる♪」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「啊—，樱—花—开，樱—花—落♪」"
+      ]
+    },
+    "21": {
+      "original_lines": [
+        "霊夢　　　「歌わずに花を見ることは出来ないの？」"
+      ],
+      "translated_lines": [
+        "灵梦　　「赏花的时候你不能安静一下吗？」"
+      ]
+    },
+    "24": {
+      "original_lines": [
+        "ミスティア「お花見に歌を歌わないなんて考えられないよー」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「赏花的时候怎么可以不唱歌呢」"
+      ]
+    },
+    "27": {
+      "original_lines": [
+        "魔理沙　　「いつも以上に騒々しいな。"
+      ],
+      "translated_lines": [
+        "魔理沙　「比平时还要吵呢。"
+      ]
+    },
+    "29": {
+      "original_lines": [
+        "　　　　　　誰だ？　こいつを呼んだのは」"
+      ],
+      "translated_lines": [
+        "　　　　　是谁把这家伙叫来的？」"
+      ]
+    },
+    "32": {
+      "original_lines": [
+        "霊夢　　　「乱入よ乱入。"
+      ],
+      "translated_lines": [
+        "灵梦　　「是她自己闯进来的啦。"
+      ]
+    },
+    "34": {
+      "original_lines": [
+        "　　　　　　突然やってきて歌ってるのよ」"
+      ],
+      "translated_lines": [
+        "　　　　　突然这么跑进来，还唱着歌」"
+      ]
+    },
+    "37": {
+      "original_lines": [
+        "ミスティア「一緒に歌うのは駄目よ？"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「不允许你们跟着唱哦？"
+      ]
+    },
+    "39": {
+      "original_lines": [
+        "　　　　　　私が歌うのを邪魔しない」"
+      ],
+      "translated_lines": [
+        "　　　　　不许打扰我唱歌」"
+      ]
+    },
+    "42": {
+      "original_lines": [
+        "魔理沙　　「歌わないぜ」"
+      ],
+      "translated_lines": [
+        "魔理沙　「谁会唱啊」"
+      ]
+    },
+    "45": {
+      "original_lines": [
+        "霊夢　　　「よく歌うでしょ？」"
+      ],
+      "translated_lines": [
+        "灵梦　　「你不是总在唱吗？」"
+      ]
+    },
+    "49": {
+      "original_lines": [
+        "ミスティア「では次の曲『あの桜はアルカリ』　いきまーす」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「接下来为大家演唱《碱色的樱花》，开始喽～」"
+      ]
+    },
+    "52": {
+      "original_lines": [
+        "霊夢　　　「ま、お酒が減るわけでも食べ物が減る訳でもないから",
+        "　　　　　　いいんじゃん？」"
+      ],
+      "translated_lines": [
+        "灵梦　　「反正也不会少一杯酒少一块肉，",
+        "　　　　　就让她唱吧？」"
+      ]
+    },
+    "56": {
+      "original_lines": [
+        "魔理沙　　「まあ良いんだがな」"
+      ],
+      "translated_lines": [
+        "魔理沙　「是啊，无所谓了」"
+      ]
+    },
+    "58": {
+      "original_lines": [
+        "魔理沙　　「こういう宴会って、あいつの様な奴は来ないと思って",
+        "　　　　　　たんだよ」"
+      ],
+      "translated_lines": [
+        "魔理沙　「不过，我一直以为像这样的宴会是不会有那样的家伙",
+        "　　　　　会来的啦」"
+      ]
+    },
+    "62": {
+      "original_lines": [
+        "霊夢　　　「ああそう？"
+      ],
+      "translated_lines": [
+        "灵梦　　「是吗？"
+      ]
+    },
+    "64": {
+      "original_lines": [
+        "　　　　　　陽気だからいつでも来そうじゃないの」"
+      ],
+      "translated_lines": [
+        "　　　　　她这么活泼，来也不是什么奇怪的事情啊」"
+      ]
+    },
+    "67": {
+      "original_lines": [
+        "魔理沙　　「こういう宴会のメインは焼き鳥だからな」"
+      ],
+      "translated_lines": [
+        "魔理沙　「这样的宴会，主食可是烤鸟肉啊」"
+      ]
+    },
+    "70": {
+      "original_lines": [
+        "霊夢　　　「なるほど。鴨が葱しょってって奴ね」"
+      ],
+      "translated_lines": [
+        "灵梦　　「原来是这样，那还真是得来全不费工夫啊」"
+      ]
+    },
+    "73": {
+      "original_lines": [
+        "魔理沙　　「雀みたいだがな」"
+      ],
+      "translated_lines": [
+        "魔理沙　「虽然只是一只小麻雀啦」"
+      ]
+    },
+    "76": {
+      "original_lines": [
+        "ミスティア「何の話をしてるのよ」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「你们在说什么啊」"
+      ]
+    },
+    "79": {
+      "original_lines": [
+        "魔理沙　　「雀が串に刺さる話だ」"
+      ],
+      "translated_lines": [
+        "魔理沙　「在说鸟肉串啊」"
+      ]
+    },
+    "82": {
+      "original_lines": [
+        "霊夢　　　「串に刺さって焼かれる話ね」"
+      ],
+      "translated_lines": [
+        "灵梦　　「串起来然后放在火上烤」"
+      ]
+    },
+    "85": {
+      "original_lines": [
+        "ミスティア「お花見だと言うのに何を物騒な～」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「赏花的时候不要说这些吓人的东西～」"
+      ]
+    },
+    "88": {
+      "original_lines": [
+        "霊夢　　　「物騒なのは花見だから。"
+      ],
+      "translated_lines": [
+        "灵梦　　「真正吓人的是赏花本身才对。"
+      ]
+    },
+    "90": {
+      "original_lines": [
+        "　　　　　　桜の花見だからよ」"
+      ],
+      "translated_lines": [
+        "　　　　　赏樱花哦」"
+      ]
+    },
+    "93": {
+      "original_lines": [
+        "魔理沙　　「そうか？」"
+      ],
+      "translated_lines": [
+        "魔理沙　「真的吗？」"
+      ]
+    },
+    "96": {
+      "original_lines": [
+        "ミスティア「何で？」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「为什么？」"
+      ]
+    },
+    "99": {
+      "original_lines": [
+        "霊夢　　　「桜は罪を吸収し、時間をかけて土に還してくれる。"
+      ],
+      "translated_lines": [
+        "灵梦　　「樱花能够吸收罪业，随着时间的推移，罪回归到大地之中。"
+      ]
+    },
+    "101": {
+      "original_lines": [
+        "　　　　　　そのお陰で罪を犯した者の霊が集まるんだけどー」"
+      ],
+      "translated_lines": [
+        "　　　　　因为这样，犯下罪孽的人的灵魂就会渐渐聚集起来呢…」"
+      ]
+    },
+    "104": {
+      "original_lines": [
+        "魔理沙　　「へえ」"
+      ],
+      "translated_lines": [
+        "魔理沙　「嘿」"
+      ]
+    },
+    "107": {
+      "original_lines": [
+        "ミスティア「へえ」"
+      ],
+      "translated_lines": [
+        "米斯蒂娅「嘿」"
+      ]
+    },
+    "109": {
+      "original_lines": [
+        "　ミスティアは誰かに聞いた話だと思ったが、何処で誰に聞いたのか",
+        "　は思い出せなかった。"
+      ],
+      "translated_lines": [
+        "　米斯蒂娅觉得自己似乎听过这句话，可是却想不起来在什么地方，",
+        "　听谁所说的了。"
+      ]
+    },
+    "112": {
+      "original_lines": [
+        "　そう、彼女は非常に忘れっぽい。"
+      ],
+      "translated_lines": [
+        "　是的，她十分健忘。"
+      ]
+    },
+    "114": {
+      "original_lines": [
+        "　彼女に説教は、殆ど意味をなしていなかった。"
+      ],
+      "translated_lines": [
+        "　对她说教，几乎是没有意义的。"
+      ]
+    },
+    "116": {
+      "original_lines": [
+        "　だから、彼女は花を見ては騒ぎ、歌を歌った。"
+      ],
+      "translated_lines": [
+        "　所以，她才会一边赏花一边唱歌。"
+      ]
+    },
+    "121": {
+      "original_lines": [
+        "　乱入した時点で目的を殆ど忘れてしまったが……"
+      ],
+      "translated_lines": [
+        "　虽然闯进去的那一刻起，她就已经忘记了赏花的目的了……"
+      ]
+    },
+    "118": {
+      "original_lines": [
+        "　しかし、閻魔様の説教も全く無駄というわけではなく、神社の花見",
+        "　に乱入したのも説教のお陰である。"
+      ],
+      "translated_lines": [
+        "　不过，阎魔大人的说教并非毫无用处，她闯进神社赏花",
+        "　正是说教带来的结果。"
+      ]
+    },
+    "123": {
+      "original_lines": [
+        "　選んだ曲は鎮魂歌だったのである。"
+      ],
+      "translated_lines": [
+        "　她选的歌是镇魂曲。"
+      ]
+    },
+    "125": {
+      "original_lines": [
+        "　驚くべき事に、彼女は初めて歌に明確な目的を込めた。"
+      ],
+      "translated_lines": [
+        "　而让人惊讶的是，这也是她第一次有明确目的地去唱歌。"
+      ]
+    },
+    "127": {
+      "original_lines": [
+        "　ただし、一曲目だけだったが……"
+      ],
+      "translated_lines": [
+        "　虽然只有那么一首……"
+      ]
+    },
+    "129": {
+      "original_lines": [
+        "　　Congratulations!　Ending　No.8"
+      ],
+      "translated_lines": [
+        "　　Congratulations!　Ending　No.8"
+      ]
+    }
+  }
+}

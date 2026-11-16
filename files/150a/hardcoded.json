@@ -1,0 +1,1263 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th09_150a",
+  "resource": "hardcoded",
+  "entries": {
+    "window-title": {
+      "original_lines": [
+        "東方花映塚　～ Phantasmagoria of Flower View. ver 1.50a"
+      ],
+      "translated_lines": [
+        "东方花映塚　～ Phantasmagoria of Flower View. ver 1.50a"
+      ]
+    },
+    "th09-menu-story-start": {
+      "original_lines": [
+        "花映塚モードを開始します"
+      ],
+      "translated_lines": [
+        "开始花映塚模式的游戏"
+      ]
+    },
+    "th09-menu-extra-start": {
+      "original_lines": [
+        "エキストラモードを開始します"
+      ],
+      "translated_lines": [
+        "开始Extra模式的游戏"
+      ]
+    },
+    "th09-menu-match-start": {
+      "original_lines": [
+        "対人戦、対CPU戦、ウォッチモードを開始します"
+      ],
+      "translated_lines": [
+        "开始对人、对CPU或观赏战斗的模式"
+      ]
+    },
+    "th09-menu-replay": {
+      "original_lines": [
+        "リプレイを再生します"
+      ],
+      "translated_lines": [
+        "播放录像"
+      ]
+    },
+    "th09-menu-result": {
+      "original_lines": [
+        "記録を見ます"
+      ],
+      "translated_lines": [
+        "查看记录"
+      ]
+    },
+    "th09-menu-music-room": {
+      "original_lines": [
+        "音楽室に入ります"
+      ],
+      "translated_lines": [
+        "进入音乐室"
+      ]
+    },
+    "th07-option-player": {
+      "original_lines": [
+        "プレイヤーの初期数を変更します。（初期設定　３）"
+      ],
+      "translated_lines": [
+        "更改初始自机数 （默认  3）"
+      ]
+    },
+    "th07-option-graphic": {
+      "original_lines": [
+        "画面の色数を変更します。３２ＢＩＴだと最も綺麗に表示されます。"
+      ],
+      "translated_lines": [
+        "更改画面颜色深度。32位是最华丽的显示效果。"
+      ]
+    },
+    "th09-option-bgm": {
+      "original_lines": [
+        "ＢＧＭの再生方法を変更します。＊現在まだMIDIは未対応です"
+      ],
+      "translated_lines": [
+        "更改BGM的播放格式。＊现在还没有对应的MIDI格式"
+      ]
+    },
+    "th08-option-bgm-volume": {
+      "original_lines": [
+        "ＢＧＭの音量を調整します"
+      ],
+      "translated_lines": [
+        "调整BGM音量"
+      ]
+    },
+    "th08-option-se-volume": {
+      "original_lines": [
+        "効果音の音量を調整します"
+      ],
+      "translated_lines": [
+        "调整效果音音量"
+      ]
+    },
+    "th07-option-window-mode": {
+      "original_lines": [
+        "ウィンドウかフルスクリーンか選択します"
+      ],
+      "translated_lines": [
+        "选择以窗口或全屏显示"
+      ]
+    },
+    "th07-option-reset": {
+      "original_lines": [
+        "全て初期設定にします"
+      ],
+      "translated_lines": [
+        "全部恢复默认设定"
+      ]
+    },
+    "th09-option-key-config": {
+      "original_lines": [
+        "操作系の設定をします"
+      ],
+      "translated_lines": [
+        "进行操作设定"
+      ]
+    },
+    "th07-option-quit": {
+      "original_lines": [
+        "おいそれと終了します"
+      ],
+      "translated_lines": [
+        "结束设置"
+      ]
+    },
+    "th09-key-side": {
+      "original_lines": [
+        "１Ｐ、２Ｐを選択します"
+      ],
+      "translated_lines": [
+        "选择1P或是2P的设定"
+      ]
+    },
+    "th09-key-control-type": {
+      "original_lines": [
+        "PAD1,2:パッド使用、Full,Left,Right:キーボード使用"
+      ],
+      "translated_lines": [
+        "PAD1,2：使用Pad　Full,Left,Right:使用键盘对应区域"
+      ]
+    },
+    "th09-key-charge-type": {
+      "original_lines": [
+        "チャージボタンの動作、Slow:低速移動、Charge:チャージ"
+      ],
+      "translated_lines": [
+        "指定Charge键动作　Slow:低速移动、Charge:蓄力"
+      ]
+    },
+    "th09-key-shot": {
+      "original_lines": [
+        "ショットボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置射击按键"
+      ]
+    },
+    "th09-key-bomb": {
+      "original_lines": [
+        "ボムボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置Bomb按键"
+      ]
+    },
+    "th09-key-slow": {
+      "original_lines": [
+        "低速、及びチャージボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置低速或者蓄力按键"
+      ]
+    },
+    "th07-key-skip": {
+      "original_lines": [
+        "メッセージスキップボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置对话跳过按键"
+      ]
+    },
+    "th07-key-pause": {
+      "original_lines": [
+        "ポーズボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置暂停按键"
+      ]
+    },
+    "th07-key-reset": {
+      "original_lines": [
+        "初期設定に戻します"
+      ],
+      "translated_lines": [
+        "恢复默认设置"
+      ]
+    },
+    "th07-key-quit": {
+      "original_lines": [
+        "おおよそ終了します"
+      ],
+      "translated_lines": [
+        "退出按键设定"
+      ]
+    },
+    "th09-music-room-spoiler-1": {
+      "original_lines": [
+        " ***** 注意 ***** "
+      ],
+      "translated_lines": [
+        "***** 注意 *****"
+      ]
+    },
+    "th09-music-room-spoiler-2": {
+      "original_lines": [
+        "  この曲はまだゲーム中で再生されたことがありません。"
+      ],
+      "translated_lines": [
+        "选择的音乐尚未在游戏进行的过程中播放过。"
+      ]
+    },
+    "th09-music-room-spoiler-3": {
+      "original_lines": [
+        "  一応聴くことは出来ますが、曲名とコメントは見ることが出来ません。"
+      ],
+      "translated_lines": [
+        "尽管可以提前聆听，但将不显示曲名以及评论。"
+      ]
+    },
+    "th07-menu-option": {
+      "original_lines": [
+        "各種設定できます"
+      ],
+      "translated_lines": [
+        "进行各种设置"
+      ]
+    },
+    "th07-menu-quit": {
+      "original_lines": [
+        "いろいろと終了します"
+      ],
+      "translated_lines": [
+        "差不多该休息了"
+      ]
+    },
+    "th06-error-two-instances": {
+      "original_lines": [
+        "二つは起動できません\r\n"
+      ],
+      "translated_lines": [
+        "不能双开\r\n"
+      ]
+    },
+    "th06-log-header": {
+      "original_lines": [
+        "東方動作記録 --------------------------------------------- \r\n"
+      ],
+      "translated_lines": [
+        "东方运行记录 --------------------------------------------- \r\n"
+      ]
+    },
+    "th06-log-tl-hal": {
+      "original_lines": [
+        "T&L HAL で動作しま～す\r\n"
+      ],
+      "translated_lines": [
+        "使用 T&L HAL 运～行\r\n"
+      ]
+    },
+    "th06-log-directsound-init": {
+      "original_lines": [
+        "DirectSound は正常に初期化されました\r\n"
+      ],
+      "translated_lines": [
+        "DirectSound 已正常初始化\r\n"
+      ]
+    },
+    "th06-log-no-gamepad": {
+      "original_lines": [
+        "使えるパッドが存在しないようです、残念\r\n"
+      ],
+      "translated_lines": [
+        "很遗憾，找不到可以使用的手柄\r\n"
+      ]
+    },
+    "th06-log-valid-pad-905dc": {
+      "original_lines": [
+        "有効なパッドを発見しました\r\n"
+      ],
+      "translated_lines": [
+        "发现了有效的手柄\r\n"
+      ]
+    },
+    "th06-log-valid-pad-905fc": {
+      "original_lines": [
+        "有効なパッドを発見しました\r\n"
+      ],
+      "translated_lines": [
+        "发现了有效的手柄\r\n"
+      ]
+    },
+    "th06-log-unable-to-read-file": {
+      "original_lines": [
+        "%sが読み込めないです。\r\n"
+      ],
+      "translated_lines": [
+        "无法读取 %s。\r\n"
+      ]
+    },
+    "th06-log-directinput-init": {
+      "original_lines": [
+        "DirectInput は正常に初期化されました\r\n"
+      ],
+      "translated_lines": [
+        "DirectInput 已正常初始化\r\n"
+      ]
+    },
+    "th06-log-sound-file-read-error": {
+      "original_lines": [
+        "error : Sound ファイルが読み込めない データを確認 %s\r\n"
+      ],
+      "translated_lines": [
+        "error : 无法读取 Sound 文件 请检查数据 %s\r\n"
+      ]
+    },
+    "th06-log-texture-read-error": {
+      "original_lines": [
+        "テクスチャ %s が読み込めません。データが失われてるか壊れています\r\n"
+      ],
+      "translated_lines": [
+        "无法读取纹理 %s。数据丢失或损坏\r\n"
+      ]
+    },
+    "th06-log-export-failure": {
+      "original_lines": [
+        "ファイルが書き出せません %s\r\n"
+      ],
+      "translated_lines": [
+        "无法创建文档 %s\r\n"
+      ]
+    },
+    "th06-log-read-only-full-disk": {
+      "original_lines": [
+        "フォルダが書込み禁止属性になっているか、ディスクがいっぱいいっぱいになってませんか？\r\n"
+      ],
+      "translated_lines": [
+        "文件夹被设置成只读属性了吗？硬盘满满的了吗？\r\n"
+      ]
+    },
+    "th07-log-reinit-abnormal-config": {
+      "original_lines": [
+        "コンフィグデータが異常でしたので再初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "Config档案异常，所以再次初始化了\r\n"
+      ]
+    },
+    "th06-log-reinit-missing-config": {
+      "original_lines": [
+        "コンフィグデータが見つからないので初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "Config档案无法找到，所以再次初始化了\r\n"
+      ]
+    },
+    "th06-log-first-startup-32bit": {
+      "original_lines": [
+        "初回起動、画面を 32Bits で初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "初次启动，以32Bits初始化了画面\r\n"
+      ]
+    },
+    "th06-log-character-init-failure": {
+      "original_lines": [
+        "error : 文字の初期化に失敗しました\r\n"
+      ],
+      "translated_lines": [
+        "error : 文字初始化失败了\r\n"
+      ]
+    },
+    "th06-log-tl-hal-unavailable": {
+      "original_lines": [
+        "T&L HAL は使用できないようです\r\n"
+      ],
+      "translated_lines": [
+        "T&L HAL 似乎不能使用\r\n"
+      ]
+    },
+    "th06-log-hal-unavailable": {
+      "original_lines": [
+        "HAL も使用できないようです\r\n"
+      ],
+      "translated_lines": [
+        "HAL 也不能使用的样子\r\n"
+      ]
+    },
+    "th06-log-direct3d-init-failure": {
+      "original_lines": [
+        "Direct3D の初期化に失敗、これではゲームは出来ません\r\n"
+      ],
+      "translated_lines": [
+        "Direct3D 初始化失败，这样无法运行游戏\r\n"
+      ]
+    },
+    "th07-log-async-vsync-test": {
+      "original_lines": [
+        "VSync非同期可能かどうかを試みます\r\n"
+      ],
+      "translated_lines": [
+        "尝试是否可以进行VSync异步\r\n"
+      ]
+    },
+    "th07-log-async-update-failure": {
+      "original_lines": [
+        "非同期更新も行えません。一番汚いモードに変更します\r\n"
+      ],
+      "translated_lines": [
+        "异步更新也不能进行。切换到最不清洁模式\r\n"
+      ]
+    },
+    "th07-log-refresh-rate-suggestion": {
+      "original_lines": [
+        "*** リフレッシュレートを60Hzに変更することを推奨します ***\r\n"
+      ],
+      "translated_lines": [
+        "*** 推荐将刷新率更改为60Hz ***\r\n"
+      ]
+    },
+    "th06-log-fog": {
+      "original_lines": [
+        "フォグの使用を抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制使用雾\r\n"
+      ]
+    },
+    "th06-log-16bit-textures": {
+      "original_lines": [
+        "16Bit のテクスチャの使用を強制します\r\n"
+      ],
+      "translated_lines": [
+        "强制使用16Bit纹理\r\n"
+      ]
+    },
+    "th06-log-directinput-usage": {
+      "original_lines": [
+        "パッド、キーボードの入力に DirectInput を使用しません\r\n"
+      ],
+      "translated_lines": [
+        "不对手柄、键盘输入使用DirectInput\r\n"
+      ]
+    },
+    "th07-log-bgm-memory": {
+      "original_lines": [
+        "ＢＧＭをメモリに読み込みます\r\n"
+      ],
+      "translated_lines": [
+        "将ＢＧＭ载入内存\r\n"
+      ]
+    },
+    "th06-log-window-mode": {
+      "original_lines": [
+        "ウィンドウモードで起動します\r\n"
+      ],
+      "translated_lines": [
+        "以窗口模式启动\r\n"
+      ]
+    },
+    "th07-log-vsync": {
+      "original_lines": [
+        "垂直同期を取りません\r\n"
+      ],
+      "translated_lines": [
+        "不进行垂直同步\r\n"
+      ]
+    },
+    "native-diagnostic-005": {
+      "original_lines": [
+        "テクスチャが読み込めません。データが失われてるか壊れています\r\n"
+      ],
+      "translated_lines": [
+        "无法读取纹理，数据已丢失或损坏\r\n"
+      ]
+    },
+    "native-diagnostic-007": {
+      "original_lines": [
+        "アニメのバージョンが違います\r\n"
+      ],
+      "translated_lines": [
+        "动画版本不匹配\r\n"
+      ]
+    },
+    "native-diagnostic-008": {
+      "original_lines": [
+        "テクスチャ格納先が足りません\r\n"
+      ],
+      "translated_lines": [
+        "纹理存储空间不足\r\n"
+      ]
+    },
+    "native-diagnostic-009": {
+      "original_lines": [
+        "アニメが読み込めません。データが失われてるか壊れています\r\n"
+      ],
+      "translated_lines": [
+        "无法读取动画，数据已丢失或损坏\r\n"
+      ]
+    },
+    "native-diagnostic-014": {
+      "original_lines": [
+        "Wav ファイルじゃない? %s\r\n"
+      ],
+      "translated_lines": [
+        "不是 Wav 文件？ %s\r\n"
+      ]
+    },
+    "native-diagnostic-015": {
+      "original_lines": [
+        "Wav ファイルじゃない %s\r\n"
+      ],
+      "translated_lines": [
+        "不是 Wav 文件 %s\r\n"
+      ]
+    },
+    "native-diagnostic-017": {
+      "original_lines": [
+        "DirectSound オブジェクトの初期化が失敗したよ\r\n"
+      ],
+      "translated_lines": [
+        "DirectSound 对象初始化失败\r\n"
+      ]
+    },
+    "native-diagnostic-024": {
+      "original_lines": [
+        "リファレンスラスタライザを強制します\r\n"
+      ],
+      "translated_lines": [
+        "强制使用参考光栅化器\r\n"
+      ]
+    },
+    "native-diagnostic-036": {
+      "original_lines": [
+        "BGM データのバージョンが違います\r\n"
+      ],
+      "translated_lines": [
+        "BGM 数据版本不匹配\r\n"
+      ]
+    },
+    "native-diagnostic-038": {
+      "original_lines": [
+        "snapShotScreen : 確保しくり\r\n"
+      ],
+      "translated_lines": [
+        "snapShotScreen : 分配失败\r\n"
+      ]
+    },
+    "native-diagnostic-039": {
+      "original_lines": [
+        "16bit は取り込めない\r\n"
+      ],
+      "translated_lines": [
+        "无法捕获 16bit 画面\r\n"
+      ]
+    },
+    "native-diagnostic-040": {
+      "original_lines": [
+        "error : BGM の初期化に失敗しました\r\n"
+      ],
+      "translated_lines": [
+        "error : BGM 初始化失败\r\n"
+      ]
+    },
+    "native-diagnostic-042": {
+      "original_lines": [
+        "垂直同期が取れてないか、リフレッシュレートが高すぎます。\r\n"
+      ],
+      "translated_lines": [
+        "未能进行垂直同步，或刷新率过高。\r\n"
+      ]
+    },
+    "native-diagnostic-043": {
+      "original_lines": [
+        "強制６０フレームモードで動作します\r\n"
+      ],
+      "translated_lines": [
+        "以强制６０帧模式运行\r\n"
+      ]
+    },
+    "native-diagnostic-044": {
+      "original_lines": [
+        "垂直同期が取れてないか、リフレッシュレートが高すぎます\r\n"
+      ],
+      "translated_lines": [
+        "未能进行垂直同步，或刷新率过高\r\n"
+      ]
+    },
+    "native-diagnostic-045": {
+      "original_lines": [
+        "error : データファイルが存在しません\r\n"
+      ],
+      "translated_lines": [
+        "error : 数据文件不存在\r\n"
+      ]
+    },
+    "native-diagnostic-046": {
+      "original_lines": [
+        "error : データのバージョンが違います\r\n"
+      ],
+      "translated_lines": [
+        "error : 数据版本不匹配\r\n"
+      ]
+    },
+    "native-diagnostic-049": {
+      "original_lines": [
+        "DirectInput SetCooperativeLevel が使用できません\r\n"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput SetCooperativeLevel\r\n"
+      ]
+    },
+    "native-diagnostic-050": {
+      "original_lines": [
+        "DirectInput SetDataFormat が使用できません\r\n"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput SetDataFormat\r\n"
+      ]
+    },
+    "native-diagnostic-051": {
+      "original_lines": [
+        "DirectInput が使用できません\r\n"
+      ],
+      "translated_lines": [
+        "无法使用 DirectInput\r\n"
+      ]
+    },
+    "native-diagnostic-054": {
+      "original_lines": [
+        "error : MIDI File が読み込めない %s \rv\r\n"
+      ],
+      "translated_lines": [
+        "error : 无法读取 MIDI File %s \rv\r\n"
+      ]
+    },
+    "native-diagnostic-094": {
+      "original_lines": [
+        "D3DFMT_A8R8G8B8 をサポートしていません、減色モードで動作します\r\n"
+      ],
+      "translated_lines": [
+        "不支持 D3DFMT_A8R8G8B8，以减色模式运行\r\n"
+      ]
+    },
+    "native-diagnostic-095": {
+      "original_lines": [
+        "512 以上のテクスチャをサポートしていません。殆どの絵がボケて表示されます。\r\n"
+      ],
+      "translated_lines": [
+        "不支持512及以上尺寸的纹理，大部分图像会显示模糊。\r\n"
+      ]
+    },
+    "native-diagnostic-098": {
+      "original_lines": [
+        "HAL で動作します\r\n"
+      ],
+      "translated_lines": [
+        "以 HAL 运行\r\n"
+      ]
+    },
+    "native-diagnostic-099": {
+      "original_lines": [
+        "REF で動作しますが、重すぎて恐らくゲームになりません...\r\n"
+      ],
+      "translated_lines": [
+        "以 REF 运行，但速度过慢，恐怕无法正常游戏...\r\n"
+      ]
+    },
+    "native-diagnostic-103": {
+      "original_lines": [
+        "リフレッシュレートが変更できません\r\n"
+      ],
+      "translated_lines": [
+        "无法更改刷新率\r\n"
+      ]
+    },
+    "native-diagnostic-107": {
+      "original_lines": [
+        "リフレッシュレートを60Hzに変更を試みます\r\n"
+      ],
+      "translated_lines": [
+        "尝试将刷新率更改为60Hz\r\n"
+      ]
+    },
+    "native-diagnostic-109": {
+      "original_lines": [
+        "Direct3D オブジェクトは何故か作成出来なかった\r\n"
+      ],
+      "translated_lines": [
+        "无法创建 Direct3D 对象\r\n"
+      ]
+    },
+    "native-diagnostic-110": {
+      "original_lines": [
+        "再起動を要するオプションが変更されたので再起動します\r\n"
+      ],
+      "translated_lines": [
+        "需重启的选项已更改，现在重新启动\r\n"
+      ]
+    },
+    "native-diagnostic-116": {
+      "original_lines": [
+        "error : 敵弾の初期化に失敗しました\r\n"
+      ],
+      "translated_lines": [
+        "error : 敌弹初始化失败\r\n"
+      ]
+    },
+    "native-diagnostic-120": {
+      "original_lines": [
+        "error : メッセージファイル %s が読み込めませんでした\r\n"
+      ],
+      "translated_lines": [
+        "error : 无法读取消息文件 %s\r\n"
+      ]
+    },
+    "native-diagnostic-121": {
+      "original_lines": [
+        "error : エンディングファイルが読み込めない、ファイルが破壊されています\r\n"
+      ],
+      "translated_lines": [
+        "error : 无法读取结局文件，文件已损坏\r\n"
+      ]
+    },
+    "native-diagnostic-122": {
+      "original_lines": [
+        "敵データの読み込みに失敗しました、データが壊れてるか失われています\r\n"
+      ],
+      "translated_lines": [
+        "敌方数据读取失败，数据已损坏或丢失\r\n"
+      ]
+    },
+    "native-diagnostic-123": {
+      "original_lines": [
+        "ステージデータが見つかりません。データが壊れています\r\n"
+      ],
+      "translated_lines": [
+        "找不到关卡数据，数据已损坏\r\n"
+      ]
+    },
+    "native-diagnostic-093": {
+      "original_lines": [
+        "現在のビデオカード、及びドライバの能力詳細\r\n"
+      ],
+      "translated_lines": [
+        "当前显卡及驱动程序的详细能力\r\n"
+      ]
+    },
+    "native-diagnostic-125": {
+      "original_lines": [
+        "　走査線取得能力 : "
+      ],
+      "translated_lines": [
+        "　扫描线获取能力 : "
+      ]
+    },
+    "native-diagnostic-092": {
+      "original_lines": [
+        "　ウィンドウモードのレンダリング : "
+      ],
+      "translated_lines": [
+        "　窗口模式渲染 : "
+      ]
+    },
+    "native-diagnostic-091": {
+      "original_lines": [
+        "　プレゼンテーション間隔（直接）: "
+      ],
+      "translated_lines": [
+        "　呈现间隔（直接）: "
+      ]
+    },
+    "native-diagnostic-090": {
+      "original_lines": [
+        "　プレゼンテーション間隔（垂直同期）: "
+      ],
+      "translated_lines": [
+        "　呈现间隔（垂直同步）: "
+      ]
+    },
+    "native-diagnostic-089": {
+      "original_lines": [
+        "　-- デバイス能力 ------------------------------\r\n"
+      ],
+      "translated_lines": [
+        "　-- 设备能力 ------------------------------\r\n"
+      ]
+    },
+    "native-diagnostic-088": {
+      "original_lines": [
+        "　System -> 非ローカルVRAMブリット : "
+      ],
+      "translated_lines": [
+        "　System -> 非本地VRAM块传送 : "
+      ]
+    },
+    "native-diagnostic-087": {
+      "original_lines": [
+        "　ハードウェア T&L : "
+      ],
+      "translated_lines": [
+        "　硬件 T&L : "
+      ]
+    },
+    "native-diagnostic-086": {
+      "original_lines": [
+        "　非ローカルVRAMからテクスチャ取得 : "
+      ],
+      "translated_lines": [
+        "　从非本地VRAM获取纹理 : "
+      ]
+    },
+    "native-diagnostic-085": {
+      "original_lines": [
+        "　システムメモリからテクスチャ取得 : "
+      ],
+      "translated_lines": [
+        "　从系统内存获取纹理 : "
+      ]
+    },
+    "native-diagnostic-084": {
+      "original_lines": [
+        "　VRAM からテクスチャ取得 : "
+      ],
+      "translated_lines": [
+        "　从 VRAM 获取纹理 : "
+      ]
+    },
+    "native-diagnostic-083": {
+      "original_lines": [
+        "　頂点バッファにシステムメモリを使用 : "
+      ],
+      "translated_lines": [
+        "　顶点缓冲区使用系统内存 : "
+      ]
+    },
+    "native-diagnostic-082": {
+      "original_lines": [
+        "　頂点バッファにビデオメモリを使用 : "
+      ],
+      "translated_lines": [
+        "　顶点缓冲区使用显存 : "
+      ]
+    },
+    "native-diagnostic-081": {
+      "original_lines": [
+        "　-- プリミティブ能力 ---------------------------\r\n"
+      ],
+      "translated_lines": [
+        "　-- 图元能力 ---------------------------\r\n"
+      ]
+    },
+    "native-diagnostic-124": {
+      "original_lines": [
+        "　半透明処理 : "
+      ],
+      "translated_lines": [
+        "　半透明处理 : "
+      ]
+    },
+    "native-diagnostic-080": {
+      "original_lines": [
+        "　ポイントのクリッピング処理 : "
+      ],
+      "translated_lines": [
+        "　点裁剪处理 : "
+      ]
+    },
+    "native-diagnostic-079": {
+      "original_lines": [
+        "　プリミティブのクリッピング処理 : "
+      ],
+      "translated_lines": [
+        "　图元裁剪处理 : "
+      ]
+    },
+    "native-diagnostic-078": {
+      "original_lines": [
+        "　法線クリップ（反時計周り） : "
+      ],
+      "translated_lines": [
+        "　法线剔除（逆时针） : "
+      ]
+    },
+    "native-diagnostic-077": {
+      "original_lines": [
+        "　法線クリップ（時計周り） : "
+      ],
+      "translated_lines": [
+        "　法线剔除（顺时针） : "
+      ]
+    },
+    "native-diagnostic-076": {
+      "original_lines": [
+        "　法線クリップ無し : "
+      ],
+      "translated_lines": [
+        "　不进行法线剔除 : "
+      ]
+    },
+    "native-diagnostic-075": {
+      "original_lines": [
+        "　デプステストON/OFF切り替え : "
+      ],
+      "translated_lines": [
+        "　深度测试ON/OFF切换 : "
+      ]
+    },
+    "native-diagnostic-074": {
+      "original_lines": [
+        "　-- ラスタ能力 --------------------------------\r\n"
+      ],
+      "translated_lines": [
+        "　-- 光栅能力 --------------------------------\r\n"
+      ]
+    },
+    "native-diagnostic-073": {
+      "original_lines": [
+        "　異方性フィルタリング : "
+      ],
+      "translated_lines": [
+        "　各向异性过滤 : "
+      ]
+    },
+    "native-diagnostic-072": {
+      "original_lines": [
+        "　アンチエイリアシング : "
+      ],
+      "translated_lines": [
+        "　抗锯齿 : "
+      ]
+    },
+    "native-diagnostic-071": {
+      "original_lines": [
+        "　ディザ処理 : "
+      ],
+      "translated_lines": [
+        "　抖动处理 : "
+      ]
+    },
+    "native-diagnostic-070": {
+      "original_lines": [
+        "　範囲ベースのフォグ : "
+      ],
+      "translated_lines": [
+        "　基于范围的雾 : "
+      ]
+    },
+    "native-diagnostic-069": {
+      "original_lines": [
+        "　Zベースのフォグ : "
+      ],
+      "translated_lines": [
+        "　基于Z的雾 : "
+      ]
+    },
+    "native-diagnostic-068": {
+      "original_lines": [
+        "　テーブルフォグ : "
+      ],
+      "translated_lines": [
+        "　表雾 : "
+      ]
+    },
+    "native-diagnostic-067": {
+      "original_lines": [
+        "　頂点フォグ : "
+      ],
+      "translated_lines": [
+        "　顶点雾 : "
+      ]
+    },
+    "native-diagnostic-066": {
+      "original_lines": [
+        "　デプステスト : "
+      ],
+      "translated_lines": [
+        "　深度测试 : "
+      ]
+    },
+    "native-diagnostic-065": {
+      "original_lines": [
+        "　-- シェーディング能力 -----------------------\r\n"
+      ],
+      "translated_lines": [
+        "　-- 着色能力 -----------------------\r\n"
+      ]
+    },
+    "native-diagnostic-064": {
+      "original_lines": [
+        "　グーローシェーディング : "
+      ],
+      "translated_lines": [
+        "　高洛德着色 : "
+      ]
+    },
+    "native-diagnostic-063": {
+      "original_lines": [
+        "　α成分のグーローシェーディング : "
+      ],
+      "translated_lines": [
+        "　α分量的高洛德着色 : "
+      ]
+    },
+    "native-diagnostic-062": {
+      "original_lines": [
+        "　グーローシェーディングでフォグ : "
+      ],
+      "translated_lines": [
+        "　高洛德着色中的雾效果 : "
+      ]
+    },
+    "native-diagnostic-061": {
+      "original_lines": [
+        "　-- テクスチャ能力 ---------------------------\r\n"
+      ],
+      "translated_lines": [
+        "　-- 纹理能力 ---------------------------\r\n"
+      ]
+    },
+    "native-diagnostic-060": {
+      "original_lines": [
+        "　最大テクスチャサイズ : (%d, %d)\r\n"
+      ],
+      "translated_lines": [
+        "　最大纹理尺寸 : (%d, %d)\r\n"
+      ]
+    },
+    "native-diagnostic-059": {
+      "original_lines": [
+        "　α付きテクスチャ : "
+      ],
+      "translated_lines": [
+        "　带α通道的纹理 : "
+      ]
+    },
+    "native-diagnostic-058": {
+      "original_lines": [
+        "　テクスチャトランスフォーム : "
+      ],
+      "translated_lines": [
+        "　纹理变换 : "
+      ]
+    },
+    "native-diagnostic-057": {
+      "original_lines": [
+        "　バイリニア補間（拡大） : "
+      ],
+      "translated_lines": [
+        "　双线性插值（放大） : "
+      ]
+    },
+    "native-diagnostic-056": {
+      "original_lines": [
+        "　バイリニア補間（縮小） : "
+      ],
+      "translated_lines": [
+        "　双线性插值（缩小） : "
+      ]
+    },
+    "native-diagnostic-127": {
+      "original_lines": [
+        "不可\r\n"
+      ],
+      "translated_lines": [
+        "不可\r\n"
+      ]
+    },
+    "native-diagnostic-126": {
+      "original_lines": [
+        "可\r\n"
+      ],
+      "translated_lines": [
+        "可\r\n"
+      ]
+    },
+    "native-directplay-initialized": {
+      "original_lines": [
+        "DirectPlay が正常に初期化されたように見えた\r\n"
+      ],
+      "translated_lines": [
+        "DirectPlay 似乎已正常初始化\r\n"
+      ]
+    },
+    "native-diagnostic-8e3dc": {
+      "original_lines": [
+        "敵データのバージョンが違います\r\n"
+      ],
+      "translated_lines": [
+        "敌方数据版本不匹配\r\n"
+      ]
+    },
+    "native-diagnostic-90554": {
+      "original_lines": [
+        "DirectPlay 初期化失敗\r\n"
+      ],
+      "translated_lines": [
+        "DirectPlay 初始化失败\r\n"
+      ]
+    },
+    "native-diagnostic-905d4": {
+      "original_lines": [
+        "もひとつ有効なパッドを発見しました\r\n"
+      ],
+      "translated_lines": [
+        "又发现一个有效的手柄\r\n"
+      ]
+    },
+    "native-diagnostic-908b8": {
+      "original_lines": [
+        "文字描画の環境を自動検出しません\r\n"
+      ],
+      "translated_lines": [
+        "不自动检测文字绘制环境\r\n"
+      ]
+    },
+    "native-diagnostic-90b70": {
+      "original_lines": [
+        "error : 表示物の初期化に失敗しました\r\n"
+      ],
+      "translated_lines": [
+        "error : 显示资源初始化失败\r\n"
+      ]
+    },
+    "native-diagnostic-90ca0": {
+      "original_lines": [
+        "サービスプロバイダ列挙失敗:\t0x%x\r\n"
+      ],
+      "translated_lines": [
+        "服务提供者枚举失败:\t0x%x\r\n"
+      ]
+    },
+    "native-diagnostic-90cf4": {
+      "original_lines": [
+        "ポート設定失敗:\t0x%X\r\n"
+      ],
+      "translated_lines": [
+        "端口设置失败:\t0x%X\r\n"
+      ]
+    },
+    "native-diagnostic-90d18": {
+      "original_lines": [
+        "サービスプロバイダ設定失敗:\t0x%X\r\n"
+      ],
+      "translated_lines": [
+        "服务提供者设置失败:\t0x%X\r\n"
+      ]
+    },
+    "native-diagnostic-90d3c": {
+      "original_lines": [
+        "Device Address作成失敗\r\n"
+      ],
+      "translated_lines": [
+        "Device Address创建失败\r\n"
+      ]
+    },
+    "native-diagnostic-90d58": {
+      "original_lines": [
+        "ホストアドレスポート設定失敗\r\n"
+      ],
+      "translated_lines": [
+        "主机地址端口设置失败\r\n"
+      ]
+    },
+    "native-diagnostic-90d78": {
+      "original_lines": [
+        "ホストアドレスIP設定失敗\r\n"
+      ],
+      "translated_lines": [
+        "主机地址IP设置失败\r\n"
+      ]
+    },
+    "native-diagnostic-90da8": {
+      "original_lines": [
+        "Host Address作成失敗\r\n"
+      ],
+      "translated_lines": [
+        "Host Address创建失败\r\n"
+      ]
+    },
+    "native-diagnostic-90dc0": {
+      "original_lines": [
+        "新しいセッション作成失敗:\t 0x%X\r\n"
+      ],
+      "translated_lines": [
+        "创建新会话失败:\t 0x%X\r\n"
+      ]
+    },
+    "native-diagnostic-90e24": {
+      "original_lines": [
+        "CLSID_DP8SP_TCPIP 使用不可\r\n"
+      ],
+      "translated_lines": [
+        "CLSID_DP8SP_TCPIP 无法使用\r\n"
+      ]
+    },
+    "native-diagnostic-90e44": {
+      "original_lines": [
+        "IDirectPlay8Peer 初期化失敗:  0x%X\r\n"
+      ],
+      "translated_lines": [
+        "IDirectPlay8Peer 初始化失败:  0x%X\r\n"
+      ]
+    },
+    "native-diagnostic-90e6c": {
+      "original_lines": [
+        "IDirectPlay8Peer 作成失敗:  0x%X\r\n"
+      ],
+      "translated_lines": [
+        "IDirectPlay8Peer 创建失败:  0x%X\r\n"
+      ]
+    },
+    "native-diagnostic-91090": {
+      "original_lines": [
+        "テクスチャ %s が作成できません。データが失われてるか壊れています\r\n"
+      ],
+      "translated_lines": [
+        "无法创建纹理 %s。数据已丢失或损坏\r\n"
+      ]
+    },
+    "th09-network-interrupted": {
+      "original_lines": [
+        "妖怪からの通信が途絶えています"
+      ],
+      "translated_lines": [
+        "与妖怪的通信已中断"
+      ]
+    },
+    "th09-network-wait": {
+      "original_lines": [
+        "妖怪の接続を待っています"
+      ],
+      "translated_lines": [
+        "正在等待妖怪连接"
+      ]
+    },
+    "th09-network-search": {
+      "original_lines": [
+        "接続可能な妖怪を探しています"
+      ],
+      "translated_lines": [
+        "正在寻找可连接的妖怪"
+      ]
+    }
+  }
+}
