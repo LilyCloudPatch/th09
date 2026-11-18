@@ -2,8 +2,8 @@
   "schema_version": 4,
   "channel": "main",
   "game_id": "th09",
-  "issued_at": "2026-11-18T17:28:57Z",
-  "content_version": "0.7.0",
+  "issued_at": "2026-11-18T17:55:33Z",
+  "content_version": "2026.1119.1",
   "minimum_launcher_version": "0.1.10",
   "database_schema_version": 2,
   "targets": [
